@@ -19,3 +19,6 @@ palette (any palette)": changes the palette to the one said<br/>
 <br/>
 <br/>
 TODO: Add nightlight, Add RGB values not just the default colors, Add presets/playlists/segments.
+
+
+credits: https://github.com/Aircoookie/WLED
