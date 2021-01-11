@@ -3,7 +3,7 @@ import requests
 import defaults as d
 from word2number import w2n
 
-ip = "192.168.1.180"
+ip = "YOUR_LIGHTS_IP
 url="http://{}/json/state".format(ip)
 
 
